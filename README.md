@@ -5,8 +5,8 @@
 ## Requirements
 
 Для использования бота требуется :
-  # Python 3.6+
-  # python-telegram-bot
+  ### Python 3.6+
+  ### python-telegram-bot
 
 ## Как использовать:
   Поменяйте свой API-token в файле telegramapi.txt
